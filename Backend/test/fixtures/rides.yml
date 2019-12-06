@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  starting_location: 1.5
+  ending_location: 1.5
+  cost: 1.5
+  driver: one
+  rider: one
+
+two:
+  starting_location: 1.5
+  ending_location: 1.5
+  cost: 1.5
+  driver: two
+  rider: two
